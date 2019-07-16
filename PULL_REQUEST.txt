@@ -1,0 +1,27 @@
+######/PR Title
+
+# Related tasks
++ [Task title](Task link)
+
+# Main description
+Description
+
+# Solution description
+Description
+
+# Evidence
+Description or image about changes
+
+# Tests
+Related information about unit testing
+
+- [x] Test 1
+
+- [ ] Test 2
+
+- [ ] Test 3
+
+# Additional information
+Description
+
+
