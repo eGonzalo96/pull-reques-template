@@ -10,27 +10,10 @@
 + [[Android] Add 'Sugeridas' button.](https://manoderecha.net/md/index.php/task/166340)
 + [[Android] Adjust text in child's activities.](https://manoderecha.net/md/index.php/task/166486)
 + [[Android] Change currency format in KidActivityDetailActivity](https://manoderecha.net/md/index.php/task/165842)
-+ [[Android] ]
++ [[Android] Keeps old date when date picker shows up.](https://manoderecha.net/md/index.php/task/165486)
 
 # Main description
-Description
+This is a set os visual modifications (changes in layout, adjustments in text, and a few modifications in behavior). 
 
 # Solution description
-Description
-
-# Evidence
-Description or image about changes
-
-# Tests
-Related information about unit testing
-
-- [x] Test 1
-
-- [ ] Test 2
-
-- [ ] Test 3
-
-# Additional information
-Description
-
-
+The main solution, for the visual issues, was editing the XML files in the project. Some other solutions were achieved while creating new calls (async calls using the OkHttpClient, such as task 166282), while modifying a class (GetDatePicker), etc.
