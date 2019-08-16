@@ -1,19 +1,26 @@
 ######/PR Title
 
 # Related tasks
-+ [[Android] Clears child password field in ChildDetailActivity](https://manoderecha.net/md/index.php/task/165836)
-+ [[Android] Edit string resource in child's activities screen.](https://manoderecha.net/md/index.php/task/165839)
-+ [[Android] Change '20 $' to '$ 20'.](https://manoderecha.net/md/index.php/task/165842)
-+ [[Android] Modification to validation mail screen](https://manoderecha.net/md/index.php/task/166200)
-+ [[Android] Change text 'Seleccionada' to 'Seleccionar'.](https://manoderecha.net/md/index.php/task/165839)
-+ [[Android] Resquest child's activities every time the ChildDetailActivity es in foreground.](https://manoderecha.net/md/index.php/task/166282)
-+ [[Android] Add 'Sugeridas' button.](https://manoderecha.net/md/index.php/task/166340)
-+ [[Android] Adjust text in child's activities.](https://manoderecha.net/md/index.php/task/166486)
-+ [[Android] Change currency format in KidActivityDetailActivity](https://manoderecha.net/md/index.php/task/165842)
-+ [[Android] Keeps old date when date picker shows up.](https://manoderecha.net/md/index.php/task/165486)
++ [[Android] Improving calendar.](https://manoderecha.net/md/index.php/task/165486)
++ [[Android] Implementing calculator feature.](https://manoderecha.net/md/index.php/task/166998)
 
 # Main description
-This is a set os visual modifications (changes in layout, adjustments in text, and a few modifications in behavior). 
+Description
 
 # Solution description
-The main solution, for the visual issues, was editing the XML files in the project. Some other solutions were achieved while creating new calls (async calls using the OkHttpClient, such as task 166282), while modifying a class (GetDatePicker), etc.
+Description
+
+# Evidence
+Description or image about changes
+
+# Tests
+Related information about unit testing
+
+- [x] Test 1
+
+- [ ] Test 2
+
+- [ ] Test 3
+
+# Additional information
+Description
